@@ -4,3 +4,7 @@
 ProtocolConfig:
   EOF: '-quit'
   Abort: '-abort'
+  Channels:
+  - general
+  - random
+  - bishop-jobs
